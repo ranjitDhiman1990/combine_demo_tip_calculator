@@ -1,4 +1,4 @@
-# combine_demo_tip_calculator
+# Combine Demo Tip Calculator
 Tip Calculator Project
 This project demonstrates the use of the Combine framework in Swift for reactive programming, along with examples of Unit Test Cases and UI Test Cases. The app is a simple Tip Calculator built using the MVVM (Model-View-ViewModel) architecture.
 
